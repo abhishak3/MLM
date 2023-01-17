@@ -14,8 +14,8 @@ Let's try to understand this with the help of an example. Suppose we want to bui
 So, what we do instead is we feed in the previously known obscene words and negative comments to our Machine Learning Model. Now, that model tries to identify the features of a negative comment and if some another comment has all or some of those features then it can classify whether it's a negative comment or not.
 
 ## Types of Machine Learning
-* **Supervised: ** In Supervised Machine Learning, a set of data is provided along the with the desired output to train our model. We assisst the model by providing features along with the what it should output. Model then generalizes over the given dataset and tries to predict the output for new data.
-* **Unsupervised: ** In Unsupervised Machine Learning, no assisstance is provided from the programmer. Model is left to make guesses on their own mostly by clustering data with similar features.
-* **Reinforcement: ** In Reinforcement Machine Learning, model or agent interacts with the environement or try out some actions on their own. When they take an action they're either awarded or punished for their action. Based on the award or punishment, agent make choices so as to maximize the awards and minimize the punishment.
+* **Supervised:** In Supervised Machine Learning, a set of data is provided along the with the desired output to train our model. We assisst the model by providing features along with the what it should output. Model then generalizes over the given dataset and tries to predict the output for new data.
+* **Unsupervised:** In Unsupervised Machine Learning, no assisstance is provided from the programmer. Model is left to make guesses on their own mostly by clustering data with similar features.
+* **Reinforcement:** In Reinforcement Machine Learning, model or agent interacts with the environement or try out some actions on their own. When they take an action they're either awarded or punished for their action. Based on the award or punishment, agent make choices so as to maximize the awards and minimize the punishment.
 
 This is just an overview of different types of Machine Learning model. We'll understand them in detail later on!
